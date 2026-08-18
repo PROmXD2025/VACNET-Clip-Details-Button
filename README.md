@@ -4,4 +4,4 @@ It includes a button for detailed information about the clip.
 
 ## Subscribe to my YouTube channel
 
-[[МОЛЕКУРЯТНИК](https://www.youtube.com/@prom_molekura)
+[МОЛЕКУРЯТНИК](https://www.youtube.com/@prom_molekura)
