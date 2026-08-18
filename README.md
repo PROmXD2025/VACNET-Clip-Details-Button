@@ -2,6 +2,6 @@
 
 It includes a button for detailed information about the clip.
 
-## Join YouTube Channel
+## Subscribe to my YouTube channel
 
-[![Join YouTube Channel](https://www.youtube.com/@prom_molekura)
+[[МОЛЕКУРЯТНИК](https://www.youtube.com/@prom_molekura)
